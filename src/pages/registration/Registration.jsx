@@ -82,7 +82,7 @@ const Registration = () => {
                 <GoogleSection>
                   <GoogleButton type="submit">
                     <GoogleLogo src={google} alt="google" />
-                    <GLink href="https://book-reader-bac.onrender.com/api/auth/google">Google</GLink>
+                    <GLink href="https://book-reader-bac.onrender.com/api/auth/google">Google{" "}</GLink>
                   </GoogleButton>
                 </GoogleSection>
 
